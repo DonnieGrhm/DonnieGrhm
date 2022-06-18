@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Donnie Graham</h1>
 <h3 align="center">A purveyor of hope and truth! A data enthusiast with a desire for change.</h3>
 
-- 🔭 I’m currently working on **IBM Cognos Analytics**
+- 🔭 **I’m currently working on IBM Cognos Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DonnieGrhm](https://github.com/DonnieGrhm)
 
-- 📫 How to reach me **d.graham0206@yahoo.com**
+- 📫 **How to reach me d.graham0206@yahoo.com**
 
-- ⚡ Fun fact **I am a die hard Miami Heat fan and I love music.**
+- ⚡ **Fun fact I am a die hard Miami Heat fan and I love music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
