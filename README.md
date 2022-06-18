@@ -7,7 +7,7 @@
 
 - 📫 **How to reach me d.graham0206@yahoo.com**
 
-- ⚡ **Fun fact I am a die hard Miami Heat <iframe src="https://giphy.com/embed/AHeTfHgVFPHgs" width="423" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fire-2d-animation-efx-AHeTfHgVFPHgs">via GIPHY</a></p> fan and I love music.**
+- ⚡ **Fun fact I am a die hard Miami Heat fan and I love music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
