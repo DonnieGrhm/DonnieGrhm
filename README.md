@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donnie Graham</h1>
 <h3 align="center">A purveyor of hope and truth! A data enthusiast with a desire for change.</h3>
 
-- 🔭 **I’m currently working on IBM Cognos Analytics**
+- 🔭 **I’m currently working on Power BI & Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DonnieGrhm](https://github.com/DonnieGrhm)
 
